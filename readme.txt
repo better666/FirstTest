@@ -1,2 +1,2 @@
 Git is distributed version contol system.
-Git is a free softwear.
+Git is a free softwear under the GPL.
